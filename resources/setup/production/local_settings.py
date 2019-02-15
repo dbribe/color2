@@ -1,7 +1,7 @@
 DEBUG = False
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'tsx#@-o-+%*%a0be$rh+@otxverack01#k^tj^piv!eaeaqs_g'
+SECRET_KEY = 'u^5c&p-v-w@9kc_ohbd757v+@l-5sm&mnrohw$(bnu7=-@dt&)'
 
 ALLOWED_HOSTS = ['']
 
